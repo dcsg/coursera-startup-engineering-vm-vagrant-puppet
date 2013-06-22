@@ -1,0 +1,3 @@
+[submodule "vagrant/puppet/modules/nodejs"]
+	path = vagrant/puppet/modules/nodejs
+	url = https://github.com/willdurand/puppet-nodejs.git
