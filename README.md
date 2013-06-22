@@ -6,7 +6,7 @@ Creates a VirtualBox Virtual Machine with Vagrant and Puppet for Coursera Startu
 #### What will be installed
 
 
-* Ubuntu 12.04
+* Ubuntu 12.10 64-bit
 * Python, g++, wget, curl, htop, vim
 * Heroku
 * NodeJS v0.8.9
